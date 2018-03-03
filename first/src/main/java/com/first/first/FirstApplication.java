@@ -3,6 +3,7 @@ package com.first.first;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+@EnableConfigS
 @SpringBootApplication
 public class FirstApplication {
 
